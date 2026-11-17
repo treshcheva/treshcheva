@@ -42,7 +42,7 @@ I have also taught and supported students in **machine learning and statistics**
 
 - **LinkedIn:** [mariia-treshcheva](https://www.linkedin.com/in/mariia-treshcheva)
 - **Email:** [treshchevam@gmail.com](mailto:treshchevam@gmail.com)
-
+- **Telegram:** @maruatre
 ---
 
 *Interested in opportunities in Machine Learning, Data Science and applied AI.*
