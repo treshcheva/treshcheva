@@ -1,6 +1,6 @@
 # Hi, I'm Maria 👩‍💻✨
 
-**Machine Learning & Data Science · MIPT Master's Student · Researcher in Structural Biology**
+**Machine Learning & Data Science · MIPT Master's Student · Researcher in Biophysics**
 
 I'm a master's student at the Moscow Institute of Physics and Technology (MIPT) with a background in experimental research and data analysis. I work with Python to process and interpret scientific data, and I'm developing my expertise in machine learning, deep learning, and computer vision.
 
